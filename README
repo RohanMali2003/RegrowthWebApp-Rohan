@@ -1,2 +1,9 @@
 Readme:
 Can I copy contents of a local repository onto a new git repo without having to link it to the main repo I have cloned?
+
+Github code:
+git remote add origin https://github.com/RohanMali2003/RegrowthWebApp-Rohan.git
+git branch -M main
+git push -u origin main
+
+Does not work as intended
