@@ -7,5 +7,4 @@ git branch -M main
 git push -u origin main
 
 Does not work as intended
-
-Readme for this has changed?
+Has shown error on vscode terminal. Will log soon.
